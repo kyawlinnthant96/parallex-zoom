@@ -1,6 +1,8 @@
 .container {
   height: 300vh;
   position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
   .sticky {
     position: sticky;
     overflow: hidden;
